@@ -5,6 +5,7 @@
 ## Informações Gerais
 
 - Serão aceitos somente arquivos .xlsx
+- Arquivos com mais de 200 linhas podem causar lentidão
 - Importante usar os aquivos atrelados a documentação, pois a aplicação usa os parâmetros prédefinidos no cabeçalho para fazer consultas no banco de dados.
 Cabeçalhos com espaço ou com nomes diferentes resultam em erro da aplicação.
 
