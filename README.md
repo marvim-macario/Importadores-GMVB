@@ -1,4 +1,4 @@
-#Importadores GMVB!
+#Importadores GMVB
 
 
 
@@ -16,14 +16,17 @@ Todas as propostas inseridas/Alteradas com sucesso:
 
 ###### Caso 2:
 Algumas propostas com erro:
-![](aviso de propostas não inseridas.png)
-![aviso de propostas não inseridas](https://user-images.githubusercontent.com/32857539/113603354-3bb58500-961a-11eb-8aa2-9861f9d93a2f.png)
+![aviso de propostas não inseridas](https://user-images.githubusercontent.com/32857539/113605111-94861d00-961c-11eb-8b29-e081a63c9b16.png)
+
 
 clicando em "veja mais"
  podera ver propostas e motivo do erro:
 ![errovejamais](https://user-images.githubusercontent.com/32857539/113603048-d1044980-9619-11eb-8cfa-ff88aa46f824.png)
 
 ###### mensagens de erro:
+taxa: "a cedula taxa do arquivo deve ter formatçao ex. 0.0123";
+banco: "para alteraçao proposta deve existir no banco de dados";
+
 
 
 
