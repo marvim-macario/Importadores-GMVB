@@ -8,7 +8,7 @@
 - Importante usar os aquivos atrelados a documentação, pois a aplicação usa os parâmetros prédefinidos no cabeçalho para fazer consultas no banco de dados.
 Cabeçalhos com espaço ou com nomes diferentes resultam em erro da aplicação.
 
-###Uso 
+### Uso 
 #### Caso 1:
 ##### Todas as propostas inseridas/Alteradas com sucesso:
 ![sucessocod 127 0 0 1](https://user-images.githubusercontent.com/32857539/113604157-41f83100-961b-11eb-95c2-113606c72d4a.png)
@@ -42,7 +42,7 @@ erro:proposta com status "PAGO" não pode ser alterada
 
 
 
-aplicação em testes
+                                                                                      aplicação em testes
 
 
 
