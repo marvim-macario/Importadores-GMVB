@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Importadores GMVB
 
-You can use the [editor on GitHub](https://github.com/marvim1990/Importadores-GMVB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###### Informações Gerais
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Serão aceitos somente arquivos .xlsx
+- Importante usar os aquivos atrelados a documentação, pois a aplicação usa os parâmetros prédefinidos no cabeçalho para fazer consultas no banco de dados.
+Cabeçalhos com espaço ou com nomes diferentes resultam em erro da aplicação.
 
-### Markdown
+# Editor.md
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-```markdown
-Syntax highlighted code block
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Table of Contents**
 
-1. Numbered
-2. List
+[TOCM]
 
-**Bold** and _Italic_ and `Code` text
+[TOC]
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marvim1990/Importadores-GMVB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#H1 header
+##H2 header
+###H3 header
+####H4 header
+#####H5 header
+######H6 header
+#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
