@@ -38,7 +38,11 @@ erro:proposta com status "PAGO" não pode ser alterada
 - status EM "PROCESSO DE PAGTO" e valores liberados acima de 0
 - erro:proposta com status "EM PROCESSO DE PAGTO" não pode ser alteradas.
 
-- Erros comuns mencionados nas  ##Informações Gerais
+- Erros comuns mencionados nas informações gerais !
+
+
+
+aplicação em testes
 
 
 
