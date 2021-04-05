@@ -11,7 +11,8 @@ Cabeçalhos com espaço ou com nomes diferentes resultam em erro da aplicação.
 #### Uso 
 ###### Caso 1:
 Todas as propostas inseridas/Alteradas com sucesso:
-[sucesso- 127 0 0 1](https://user-images.githubusercontent.com/32857539/113603241-13c62180-961a-11eb-918f-19cedd3b6666.png)
+![sucessocod 127 0 0 1](https://user-images.githubusercontent.com/32857539/113604157-41f83100-961b-11eb-95c2-113606c72d4a.png)
+
 
 ###### Caso 2:
 Algumas propostas com erro:
@@ -21,14 +22,8 @@ Algumas propostas com erro:
 clicando em "veja mais"
  podera ver propostas e motivo do erro:
 ![errovejamais](https://user-images.githubusercontent.com/32857539/113603048-d1044980-9619-11eb-8cfa-ff88aa46f824.png)
-[TOCM]
 
-[TOC]
+###### mensagens de erro:
 
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+
+
