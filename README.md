@@ -24,14 +24,13 @@ Cabeçalhos com espaço ou com nomes diferentes resultam em erro da aplicação.
 
 
 #### mensagens de erro:
-taxa: "a cedula taxa do arquivo deve ter formatçao ex. 0.0123";
-banco: "para alteraçao proposta deve existir no banco de dados";
-erro interno do servidor: "esse tipo de erro acontece por má formatação de cedulas no arquivo o servidor não tem parametros
-para processar os dados "
+- taxa: "a cedula taxa do arquivo deve ter formatçao ex. 0.0123";
+- banco: "para alteraçao proposta deve existir no banco de dados";
+- erro interno do servidor: "esse tipo de erro acontece por má formatação de cedulas no arquivo o servidor não tem parametros
+- para processar os dados "
 
 ## Aterar propostas
-###### Módulo allterar propostas, 
-não irá alterar caso consulta no banco for:
+###### Módulo allterar propostas, não irá alterar caso consulta no banco for:
 
 - status "PAGO" e valores liberados acima de 0
 erro:proposta com status "PAGO" não pode ser alterada
